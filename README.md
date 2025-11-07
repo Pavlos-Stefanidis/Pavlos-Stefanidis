@@ -56,7 +56,7 @@ Developed a complete recommendation system with **Python (Flask)**, using
 ### 🌍 Connect with Me
 📫 [LinkedIn](https://www.linkedin.com/in/pavlos-stefanidis-85b343301)  
 💻 [Portfolio Website](https://your-portfolio-link.com) *(if you have one)*  
-📧 **Email:** your.email@example.com  
+📧 **Email:** pstefanidis5889@gmail.com
 
 ---
 
