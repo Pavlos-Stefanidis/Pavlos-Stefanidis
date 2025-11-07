@@ -25,23 +25,27 @@ Developed a complete recommendation system with **Python (Flask)**, using
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 **Frameworks / Libraries:**  
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=plotly&logoColor=white)
+
 
 **Tools & Platforms:**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
 ---
 
 ### 🚀 Projects
-🔹 **[Recommendation System for Online Stores](https://github.com/yourusername/recommendation-system)** – BSc Thesis project using Flask and ML algorithms  
-🔹 **[AI Chatbot](https://github.com/yourusername/ai-chatbot)** – NLP-based chatbot built with Python and TensorFlow  
-🔹 **[Portfolio Website](https://github.com/yourusername/portfolio)** – Personal portfolio built with HTML, CSS, and JavaScript  
+🔹 **[Recommendation System for Online Stores](https://github.com/Pavlos-Stefanidis/GameGenius)** – BSc Thesis project using Flask and ML algorithms  
 
 ---
 
