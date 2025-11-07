@@ -1,16 +1,63 @@
-## Hi there 👋
+# 👋 Hi there, I'm Pavlos Stefanidis
 
-<!--
-**Pavlos-Stefanidis/Pavlos-Stefanidis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Science Graduate** | 🎯 **MSc Artificial Intelligence Student (Metropolitan College / UEL)**  
+💻 **Aspiring AI / Data Engineer | Junior Software Engineer**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 About Me
+I’m passionate about **artificial intelligence**, **machine learning**, and **software development**.  
+Currently pursuing my MSc in **Artificial Intelligence**, I enjoy building intelligent, user-centered applications that combine data-driven insights and modern web technologies.
+
+🧩 **My BSc Thesis:**  
+> *“Recommendation Systems for Online Stores”*  
+Developed a complete recommendation system with **Python (Flask)**, using  
+- User-based, Content-based & Hybrid algorithms  
+- Evaluation metrics: RMSE, Precision@5, Recall@5  
+- Responsive UI with **HTML, CSS, JavaScript**
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+
+**Frameworks / Libraries:**  
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+
+**Tools & Platforms:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+
+---
+
+### 🚀 Projects
+🔹 **[Recommendation System for Online Stores](https://github.com/yourusername/recommendation-system)** – BSc Thesis project using Flask and ML algorithms  
+🔹 **[AI Chatbot](https://github.com/yourusername/ai-chatbot)** – NLP-based chatbot built with Python and TensorFlow  
+🔹 **[Portfolio Website](https://github.com/yourusername/portfolio)** – Personal portfolio built with HTML, CSS, and JavaScript  
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=react" alt="Pavlos' GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=react" />
+</p>
+
+---
+
+### 🌍 Connect with Me
+📫 [LinkedIn](https://www.linkedin.com/in/pavlos-stefanidis-85b343301)  
+💻 [Portfolio Website](https://your-portfolio-link.com) *(if you have one)*  
+📧 **Email:** your.email@example.com  
+
+---
+
+⭐ *“Learning never exhausts the mind.” – Leonardo da Vinci*
