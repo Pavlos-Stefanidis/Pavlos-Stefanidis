@@ -6,7 +6,7 @@
 ---
 
 ### 🧠 About Me
-I’m passionate about **artificial intelligence**, **machine learning**, and **software development**.  
+I’m passionate about **artificial intelligence**, **big data analytics**, and **software development**.  
 Currently pursuing my MSc in **Artificial Intelligence**, I enjoy building intelligent, user-centered applications that combine data-driven insights and modern web technologies.
 
 🧩 **My BSc Thesis:**  
